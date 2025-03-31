@@ -1,9 +1,7 @@
 ---
 ---
 
-# Welcome to Food Pro lab’s website. 
-# Here, we explore innovative solutions in food science and share our latest research and projects with you.
-
+# Exploring innovative food science solutions and sharing our latest research with the world.
 
 
 {% include section.html %}
@@ -44,10 +42,8 @@ Explore our published research.
   link="research"
   text="Browse our publications"
   icon="fa-solid fa-arrow-right"
-  
   style="bare"
 %}
-
 
 {% endcapture %}
 
@@ -56,7 +52,6 @@ Explore our published research.
   image="images/ourresearch.jpg"
   link="research"
   title="Our Research"
-
   style="bare"
   text=text
 %}
@@ -84,3 +79,13 @@ Get to know the team behind our research and projects.
   flip=true
   text=text
 %}
+
+## Seminars
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; background: #000;">
+  <iframe 
+    src="https://www.youtube.com/embed/_es-MiywWMI" 
+    frameborder="0" 
+    allowfullscreen 
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
